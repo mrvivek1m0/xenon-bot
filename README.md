@@ -26,7 +26,7 @@ A powerful Discord bot for creating and restoring server backups, developed by G
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/friday2su/xenon-bot-clone.git
 cd discord-backup-bot
 ```
 
