@@ -94,7 +94,7 @@ This project is open source under the MIT license. Contributions are welcome:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/friday2su/xenon-bot-clone/blob/main/LICENSE) file for details.
 
 ## Author
 
